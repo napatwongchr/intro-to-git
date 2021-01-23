@@ -8,4 +8,6 @@
 
 การเปลี่ยนแปลงแต่ละก้อนนั้นจะมีเส้นเชื่อมโยงกัน ตัวใหม่จะโยงไปหาตัวก่อนหน้าเสมอ ๆ ซึ่งทำให้เราสามารถที่จะรู้ได้ว่า Code ของเราเปลี่ยนแปลงอย่างไร และทำให้เราสามารถที่จะย้อน Code กลับไปหาจุดก่อนหน้าได้ด้วย การเชื่อมโยงแบบนี้จะมีโครงสร้างเป็น "Graph"
 
+[ไปเนื้อหาต่อไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/3-git-branches-and-merging.md)
 
+[ย้อนกลับไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/1-what-is-git-and-why.md)

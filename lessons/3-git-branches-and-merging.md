@@ -1,4 +1,4 @@
-## Git Branches And Merging 🚀
+## Git Branches And Merging 
 
 ### Git Branches
 
@@ -17,4 +17,6 @@ Git สามารถที่จะทำการแตก Branch ออก�
 
 ![Git merging](./images/git-merging.png)
 
+[ไปเนื้อหาต่อไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/4-remote-repository.md)
 
+[ย้อนกลับไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/2-how-git-works.md)
