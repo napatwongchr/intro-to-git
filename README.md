@@ -15,4 +15,6 @@
 6. Git Flow
 
 
+Appendix
 
+[Git Commands](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/git-commands.md) 
