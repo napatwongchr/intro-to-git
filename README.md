@@ -8,13 +8,16 @@
 
 3. [Git Branching](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/3-git-branches-and-merging.md)
 
-4. [Git Remote Repository](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/4-remote-repository.md) 
+4. [Git Remote Repository](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/4-remote-repository.md)
 
-5. [Pull Requests](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/5-pull-requests.md) 
+5. [Pull Requests](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/5-pull-requests.md)
 
-6. Git Flow
+6. [Git Flow](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/6-git-flow.md)
 
+## LAB
 
-Appendix
+[LAB #1](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/lab-1.md)
 
-[Git Commands](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/git-commands.md) 
+## Appendix
+
+[Git Commands](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/git-commands.md)
