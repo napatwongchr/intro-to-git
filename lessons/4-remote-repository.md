@@ -30,7 +30,7 @@ git push -u origin main
 
 7. จากนั้นเราจะทำการดู Graph ด้วย `git log --graph --decorate --oneline --all` เราจะเห็นว่ามันมี branch origin ขึ้นมา ซึ่ง branch origin หมายความว่าเป็น branch ที่อยู่ข้างบน Github repo
 
-8. แต่สิ่งที่เราแก้ยังไม่ถูก upload ขึ้นไปบน repo ให้ราทำการ upload ด้วยคำสั่ง `git push` เราจะเห็นว่่ามันให้ set upstream ก่อนให้เราทำการ set ตามคำสั่งที่มันบอกเราได้เลย
+8. แต่สิ่งที่เราแก้ยังไม่ถูก upload ขึ้นไปบน repo ให้ราทำการ upload ด้วยคำสั่ง `git push` เราจะเห็นว่่ามันให้ set upstream เพื่อเป็นการ link branch บนเครื่องเราให้เข้าไป branch บน Github repo ให้เราทำการ link ได้เลยด้วย `git push --set-upstream origin <branch_name>`
 
 9. จากนั้นไปดูที่ `git log --graph --decorate --oneline --all` เราจะเห็นว่า branch เราขึ้นไปอยู่บน Github repo เรียบร้อย ให้สังเกตที่ origin
 
