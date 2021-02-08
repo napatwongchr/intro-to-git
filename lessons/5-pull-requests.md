@@ -26,4 +26,8 @@ Pull Requests คือ การที่เรามาช่วยกัน�
 
 8. จากนั้น Code เราก็จะเข้าไปรวมใน branch หลักเรียบร้อย
 
+[ไปเนื้อหาต่อไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/6-git-flow.md)
+
 [ย้อนกลับไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/4-remote-repository.md)
+
+[ไปหน้าหลัก](https://github.com/napatwongchr/intro-to-git/blob/main/README.md)

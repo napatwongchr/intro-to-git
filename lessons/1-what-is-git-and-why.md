@@ -38,3 +38,5 @@ work on the current change (see also: git help everyday)
 ```
 
 [ไปเนื้อหาต่อไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/2-how-git-works.md)
+
+[ไปหน้าหลัก](https://github.com/napatwongchr/intro-to-git/blob/main/README.md)

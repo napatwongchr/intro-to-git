@@ -44,3 +44,5 @@
 [ไปเนื้อหาต่อไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/3-git-branches-and-merging.md)
 
 [ย้อนกลับไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/1-what-is-git-and-why.md)
+
+[ไปหน้าหลัก](https://github.com/napatwongchr/intro-to-git/blob/main/README.md)

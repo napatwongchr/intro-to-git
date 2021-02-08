@@ -37,3 +37,5 @@ git push -u origin main
 [ไปเนื้อหาต่อไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/5-pull-requests.md)
 
 [ย้อนกลับไป](https://github.com/napatwongchr/intro-to-git/blob/main/lessons/3-git-branches-and-merging.md)
+
+[ไปหน้าหลัก](https://github.com/napatwongchr/intro-to-git/blob/main/README.md)

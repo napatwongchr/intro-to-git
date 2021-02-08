@@ -13,3 +13,5 @@
 6. จากนั้นให้แต่ละคนทำ feature คนละ 1 feature (⚠️ **อย่าลืมสร้าง branch ใหม่เสมอ ๆ เวลาทำ features**)
 
 ึ7. เมื่อแต่ละคนทำ feature เสร็จแล้ว ให้ทำการสร้าง Pull request เพื่อขอ merge code เข้า branch หลัก
+
+[ไปหน้าหลัก](https://github.com/napatwongchr/intro-to-git/blob/main/README.md)
